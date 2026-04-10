@@ -123,7 +123,7 @@ Results are rendered using Go's `html/template` package, which automatically esc
 ### Run all tests
 
 ```bash
-go test ./...
+go test ./tests
 ```
 
 ### Unit tests
